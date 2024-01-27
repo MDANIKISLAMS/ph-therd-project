@@ -1,0 +1,14 @@
+
+.therd-img{
+    padding-top: 220px;
+    padding-left: 20px;
+    padding-right: 60px;
+    width: 100%;
+    background-image: url(./Images/4.png);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: cover;
+}
+.outer{
+    
+}
